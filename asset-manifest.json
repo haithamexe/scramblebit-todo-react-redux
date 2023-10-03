@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scramblebit-todo-react-redux/static/css/main.1eca0332.css",
+    "main.js": "/scramblebit-todo-react-redux/static/js/main.48bfe6b5.js",
+    "index.html": "/scramblebit-todo-react-redux/index.html",
+    "main.1eca0332.css.map": "/scramblebit-todo-react-redux/static/css/main.1eca0332.css.map",
+    "main.48bfe6b5.js.map": "/scramblebit-todo-react-redux/static/js/main.48bfe6b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eca0332.css",
+    "static/js/main.48bfe6b5.js"
+  ]
+}
